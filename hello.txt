@@ -1,2 +1,7 @@
 @Helo
+<<<<<<< HEAD
 asdsadas
+=======
+my name
+asdasd
+>>>>>>> father
